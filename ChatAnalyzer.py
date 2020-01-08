@@ -2,10 +2,11 @@
 import re
 import xlsxwriter as xlw
 
+#replace texts.txt with your file
 f = open("texts.txt","r",encoding="utf-8")
 
 SENDER = "Yusuf" # You
-RECEIVER = "Sara" # Person you are chatting with
+RECEIVER = "Person" # Person you are chatting with
 
 ## DONT TOUCH THIS
 
