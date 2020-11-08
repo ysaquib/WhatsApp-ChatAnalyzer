@@ -5,7 +5,7 @@ Author: Yusuf Saquib
 Date Created: 30 April 2019
 
 Libraries Used:
-xlsxwriter for Excel writing
+xlsxwriter for Excel writing  
 Re for pattern matching
 
 This is a simple Python script that goes through your exported whatsapp texts (only works for Android at the moment) and exports data
